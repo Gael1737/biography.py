@@ -161,4 +161,3 @@ elif page == "✏️ Edit Biography":
             "future_plans": future_plans,
         }
         save_progress(progress)
-        st.success("🎉 Biography updated successfully!")
